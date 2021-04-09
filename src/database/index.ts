@@ -11,3 +11,7 @@ getConnectionOptions().then(options => {
     ...options,
   });
 });
+
+// import { createConnection } from 'typeorm';
+
+// createConnection();
