@@ -10,4 +10,4 @@ interface ISpecificationsRepositor{
    findByName(name: string):Specification;
 }
 
-export { ISpecificationsRepositor, ICreateSpecificationDTO };
+export { ISpecificationsRepository, ICreateSpecificationDTO };
